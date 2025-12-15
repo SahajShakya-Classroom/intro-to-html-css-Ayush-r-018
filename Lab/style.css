@@ -1,0 +1,54 @@
+/* li {
+    color: rgb(16, 255, 12);
+} */
+
+/* #pa2 {
+    color: rgb(255, 3, 3);
+}
+
+#p3 {
+    color: darkcyan;
+}
+
+.p4 {
+    color: darkorange;
+}
+
+#par6{
+    color: fuchsia;
+} */
+
+.navbar{
+    display: flex;
+}
+
+p {
+    color: #0000ff;
+}
+
+h2{
+    color: #0000ff;    
+}
+
+ul li {
+    display: inline-flex;
+}
+
+ul {
+    list-style: none;
+    padding: 10px;
+    font-weight: bolder;
+    font-size: x-large;
+    color: blue;
+    text-decoration: none;
+    font-size: medium;
+}
+
+header {
+    position: sticky;
+    top: 0;
+}
+
+nav {
+    background-color: pink;
+}
